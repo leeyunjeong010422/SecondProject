@@ -1,3 +1,4 @@
+//For command line git tutorial
 public class Hello {
 	public static void main(String[] args) {
 		System.out.println("Hello Git!");
