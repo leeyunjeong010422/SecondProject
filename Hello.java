@@ -1,5 +1,5 @@
 //For command line git tutorial
-//Lacal repositotr modification
+//Local repositotr modification
 //GitHub  modification
 
 
@@ -11,6 +11,8 @@ public class Hello {
 		System.out.println("Register");
 		System.out.println("What is Git?");
 		System.out.println("That's DVCS!");
+		System.out.println("Hello Git2!");
+		
 		
 	}
 }
